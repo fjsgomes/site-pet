@@ -1,0 +1,120 @@
+.img-home {
+  background: url("../images/foto-principal-grande.png");
+  background-position: left 10% bottom 20%;
+  background-size: cover;  
+  width: 100%;
+  height: 800px;
+  position: relative;  
+}
+
+.align {  
+  
+}
+
+.background {
+  width: 60%;
+  display: inline-block;
+  background: rgba(159, 139, 116, 0.8);    
+  padding: 20px;  
+}
+
+.background-1 {  
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+}
+
+.title_secondary {
+  /* width: 40%; */
+  margin: 25px 0 0 0;
+  font-size: 40px;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 55px;
+  letter-spacing: 0em;
+  text-align: left;  
+}
+
+.paragraphe-1 {
+  /* width: 40%; */
+  margin: 20px 0;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;  
+}
+
+.btn-1 {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  background: #C4C4C4;
+  color: #B07318;
+  border: 0;
+  margin-bottom: 25px;
+}
+
+.btn-1:hover,
+.btn-1:active {
+  background: #B07318;
+  color: #C4C4C4;
+}
+
+.background-2 {
+  width: 30%;
+  display: inline-block;
+  padding: 20px;
+  margin-left: -45px;  
+  /* text-align: center; */
+  vertical-align: middle;
+  color: white;
+  background: #B07318;  
+}
+
+.speech {
+  /* width: 80%; */
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  margin: 20px;
+}
+
+.paragraphe-2 {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  margin: 20px;
+}
+
+.dogs {
+  margin-bottom: 31px;  
+}
+
+.font-pets-home {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  
+}
+
+.img-dogs {
+  text-align: center;
+}
+
+.dogs-home {
+  width: 220px;
+  height: 240px;
+  margin: 0 15px;
+}
