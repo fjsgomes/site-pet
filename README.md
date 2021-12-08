@@ -1,0 +1,1 @@
+Projeto sobre um site Pet, feito com HTML 5, CSS 3. O projeto sofrerá alterações conforme for avançando.
